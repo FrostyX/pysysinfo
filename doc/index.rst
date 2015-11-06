@@ -6,6 +6,8 @@
 Welcome to sysinfo's documentation!
 ===================================
 
+This is documentation for very useless tool sysinfo
+
 Contents:
 
 .. toctree::
