@@ -58,3 +58,6 @@ target/
 
 # IDE
 .idea
+
+# Docs
+doc/_build
