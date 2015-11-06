@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# sysinfo documentation build configuration file, created by
+# pysysinfo documentation build configuration file, created by
 # sphinx-quickstart on Fri Nov  6 16:05:30 2015.
 #
 # This file is execfile()d with the current directory set to its
@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'sysinfo'
+project = u'pysysinfo'
 copyright = u'2015, FrostyX'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -196,7 +196,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'sysinfo.tex', u'sysinfo Documentation',
+  ('index', 'pysysinfo.tex', u'pysysinfo Documentation',
    u'FrostyX', 'manual'),
 ]
 
@@ -226,7 +226,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'sysinfo', u'sysinfo Documentation',
+    ('index', 'pysysinfo', u'pysysinfo Documentation',
      [u'FrostyX'], 1)
 ]
 
@@ -240,8 +240,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'sysinfo', u'sysinfo Documentation',
-   u'FrostyX', 'sysinfo', 'One line description of project.',
+  ('index', 'pysysinfo', u'pysysinfo Documentation',
+   u'FrostyX', 'pysysinfo', 'One line description of project.',
    'Miscellaneous'),
 ]
 

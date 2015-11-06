@@ -1,11 +1,11 @@
 #!/usr/bin/python
 
 import sys
-from sysinfo import proc, mem, system
+from pysysinfo import proc, mem, system
 
 
 if __name__ != "__main__":
-    sys.stderr.write('The executable of sysinfo must not be imported.')
+    sys.stderr.write('The executable of pysysinfo must not be imported.')
     sys.exit(1)
 
 
